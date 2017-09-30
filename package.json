@@ -1,0 +1,28 @@
+{
+  "name": "node-linux-sched-service",
+  "version": "1.0.0",
+  "description": "A simple scheduling service made using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erocrizs/node-linux-sched-service.git"
+  },
+  "author": "Aemielvin Loremia",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/erocrizs/node-linux-sched-service/issues"
+  },
+  "homepage": "https://github.com/erocrizs/node-linux-sched-service#readme",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-semistandard": "^11.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "semistandard": "^11.0.0"
+  }
+}
